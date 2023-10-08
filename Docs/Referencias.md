@@ -24,7 +24,7 @@ En relaciones personales, por ambas partes, expectativas irreales pueden inducir
 
 Los perfeccionistas pueden sufrir ansiedad y baja autoestima. El perfeccionismo es un factor de riesgo propiciante de desorden obsesivo-compulsivo y depresión.
 
-Los terapeutas intentan abordar el pensamiento negativo inherente al perfeccionismo, en particular el relativo a todo o nada, por el cual se piensa que un __**resultado es o perfecto o inútil**__. Alientan a sus pacientes a fijarse objetivos realistas y a afrontar su miedo al fracaso. 
+Los terapeutas intentan abordar el pensamiento negativo inherente al perfeccionismo, en particular el relativo a todo o nada, por el cual se piensa que un **resultado es o perfecto o inútil**. Alientan a sus pacientes a fijarse objetivos realistas y a afrontar su miedo al fracaso. 
 
 ### Orden
 
