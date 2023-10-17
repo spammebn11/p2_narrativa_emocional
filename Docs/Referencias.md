@@ -61,3 +61,4 @@ Los terapeutas intentan abordar el pensamiento negativo inherente al perfeccioni
 
 
 
+https://www.color-meanings.com/category/color-meaning/
