@@ -1,6 +1,9 @@
-*~
+*~*
 
 *.backup
+
+*Adobe\ Premiere*
+
 # Windows
 Thumbs.db
 desktop.ini
